@@ -3,5 +3,7 @@ Welcome
 Milk
 Pasta
 Chicken
+Beans
+Pizza
 
 Thank you!
